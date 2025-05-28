@@ -1,0 +1,1 @@
+# omnisync-d365-plugins
